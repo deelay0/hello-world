@@ -1,1 +1,2 @@
-First github repo. Hello World!!!
+My first GitHub repository.
+Hello World!!!
